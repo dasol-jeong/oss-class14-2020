@@ -1,5 +1,5 @@
 #include<stido.h>
-void main{
+void main(){
 	prinf("hello world!");
-        printf("2015640045정다솔");
+        printf("2015640045정다솔\n");
 }
